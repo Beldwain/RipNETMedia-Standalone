@@ -54,6 +54,25 @@ Please open an [Issue](../../issues) and attach the **diagnostics** file
 (in the app: **About → Download diagnostics**). It contains logs and system info
 with your API keys removed.
 
+# RipNETMedia — Lessons Learned from ARM
+
+This is not a new idea, we took the idea of  Automatic Ripping Machine (ARM) project
+(https://github.com/automatic-ripping-machine/automatic-ripping-machine) and the
+specific design decisions RipNETMedia makes a user friendly version that is easier to 
+get started and keep running.
+
+ARM is a Python/Flask-based headless ripping system. It has been in active development
+for years and represents a real-world body of lessons that we have learned from.
+We are building fresh (no shared code) but using ARM as a reference for what to get right.
+
+The ARM developers have dedicated an extraordinary amount of time, skill, and passion to building
+something that genuinely works for thousands of people across countless hardware configurations.
+Their contributions to the open-source community have enriched the home media space in ways that
+are difficult to overstate. RipNETMedia does not exist to criticize that work — it exists because
+of it. We are respectfully and genuinely in awe of what the ARM team has built, and we encourage 
+everyone using RipNETMedia to support the ARM project and its contributors for everything they 
+have given to this community.
+
 ## Legal
 
 RipNETMedia is for making **personal backup copies of discs you own**. Copyright and
