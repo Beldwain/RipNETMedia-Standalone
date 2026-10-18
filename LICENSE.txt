@@ -1,0 +1,67 @@
+RipNetMedia Standalone - End User License Agreement
+Copyright (c) 2026 Whateverco.com. All rights reserved.
+
+DRAFT - have this reviewed by a lawyer before public release.
+
+1. Free for personal use
+   You may install and use RipNetMedia Standalone free of charge for your own
+   personal, non-commercial use, on computers you own or control.
+
+2. Business use needs a license
+   Any use by or for a business, organisation, or for commercial gain
+   (including offering ripping as a paid service) requires a separate written
+   license from the copyright holder.
+
+3. No redistribution
+   You may not copy, redistribute, resell, rent, sublicense, re-host, mirror,
+   or bundle RipNetMedia Standalone (in whole or in part, including its
+   installer) without written permission. Please point others to the official
+   download page instead.
+
+4. No modification or reverse engineering
+   You may not modify, decompile, or reverse engineer RipNetMedia Standalone,
+   except where applicable law expressly permits it despite this limitation.
+
+5. Third-party components
+   RipNetMedia Standalone includes and works with third-party software and
+   services that are covered by their own licenses and terms (for example
+   cyanrip and FFmpeg, which are licensed under the GNU LGPL). Those licenses
+   apply to those components and are not changed by this agreement. See
+   Settings > Acknowledgements & Licensing in the app, or
+   THIRD-PARTY-NOTICES.txt in the install folder.
+
+6. Your responsibility
+   You are responsible for how you use this software, including complying
+   with copyright law in your country. See the disclaimer below.
+
+7. No warranty
+   RipNetMedia Standalone is provided "AS IS", without warranty of any kind,
+   express or implied, including fitness for a particular purpose and
+   non-infringement.
+
+8. Limitation of liability
+   To the maximum extent permitted by law, the copyright holder is not liable
+   for any damages arising from the use of, or inability to use, this
+   software, including loss of data, damaged discs or drives, or lost files.
+
+9. Termination
+   This license ends automatically if you break its terms. You must then stop
+   using and delete the software.
+
+------------------------------------------------------------------------------
+DISCLAIMER
+
+RipNetMedia is intended only for making personal backup copies of discs you
+legally own. Copyright and anti-circumvention laws differ by country; in some
+countries (for example the United States under the DMCA) bypassing a disc's
+copy protection may be illegal even for personal use. You are solely
+responsible for making sure your use is lawful where you live.
+
+RipNetMedia does not itself decrypt copy-protected discs. Video discs are
+read by MakeMKV, which you install and license separately. RipNetMedia is not
+affiliated with, endorsed by, or sponsored by MakeMKV, HandBrake, cyanrip,
+FFmpeg, MusicBrainz, TMDB, TheTVDB, OMDb, Discogs, or any disc publisher or
+studio. All trademarks belong to their owners.
+
+Do not use RipNetMedia to share, sell, or distribute copies of copyrighted
+media.
