@@ -20,7 +20,7 @@ This repository hosts the **downloads and documentation**. The source code is pr
 
 > **Heads-up — Windows SmartScreen.** The app isn't code-signed yet, so Windows may
 > show *"Windows protected your PC."* Click **More info → Run anyway**. This is
-> expected; see the [Installing guide](../../wiki/Standalone-Installing) for pictures.
+> expected; see the [Installing guide](../../wiki/Standalone‐Installing) for pictures.
 
 **You need:** 64-bit Windows 10 or 11. For DVDs/Blu-rays, the free
 [MakeMKV](https://www.makemkv.com) (installed separately). **Audio CDs need nothing
@@ -41,12 +41,12 @@ extra** — the CD ripper is built in.
 
 ## Documentation
 
-- [Installing](../../wiki/Standalone-Installing)
-- [First-time setup](../../wiki/Standalone-First-Time-Setup)
-- [Ripping your first disc](../../wiki/Standalone-Ripping-Your-First-Disc)
-- [Settings & backups](../../wiki/Standalone-Settings-and-Backups)
-- [Troubleshooting](../../wiki/Standalone-Troubleshooting)
-- [FAQ](../../wiki/Standalone-FAQ)
+- [Installing](../../wiki/Standalone‐Installing)
+- [First-time setup](../../wiki/Standalone‐First‐Time‐Setup)
+- [Ripping your first disc](../../wiki/Standalone‐Ripping‐Your‐First‐Disc)
+- [Settings & backups](../../wiki/Standalone‐Settings‐and‐Backups)
+- [Troubleshooting](../../wiki/Standalone‐Troubleshooting)
+- [FAQ](../../wiki/Standalone‐FAQ)
 
 ## Reporting bugs
 
