@@ -25,7 +25,7 @@ A little context on what is and isn't in scope:
   this policy.
 - The installer and app are **not yet code-signed**, so Windows SmartScreen will
   warn on first launch. That is expected and is **not** a vulnerability — see the
-  [Installing guide](../../wiki/Standalone-Installing).
+  [Installing guide](/Beldwain/RipNETMedia-Standalone/wiki/Standalone‐Installing).
 - The **diagnostics** bundle (**About → Download diagnostics**) intentionally
   **removes API keys** before packaging. If you ever find a secret leaking into
   that bundle, into logs, or into exported settings where it shouldn't, please
