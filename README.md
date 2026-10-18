@@ -9,6 +9,14 @@ Plex, Jellyfin and Kodi understand. No separate server, no accounts, no monthly 
 
 This repository hosts the **downloads and documentation**. The source code is private.
 
+Why is this a "standalone" version? There is a server with multi-client version that is 
+being worked on right now that will be license based.  This version does not offer as much
+as the server based version but we believe it offers enough to make people happy to
+start using it. They both have similar development vectors but this one is ready now, 
+the server version still has validations and other testing to complete before we are 
+comfortable releasing it for purchase.
+
+![Step-by-Step Easy setup](https://github.com/user-attachments/assets/64c012bd-8e1d-4a45-b9dc-b7774efe2cf8)
 ---
 
 ## Download
