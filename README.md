@@ -58,8 +58,8 @@ with your API keys removed.
 
 This is not a new idea, we took the idea of  Automatic Ripping Machine (ARM) project
 (https://github.com/automatic-ripping-machine/automatic-ripping-machine) and the
-specific design decisions RipNETMedia makes a user friendly version that is easier to 
-get started and keep running.
+specific design decisions RipNETMedia makes is to create a user friendly version that 
+is easier to get started and available without running extra hosting or VM's.
 
 ARM is a Python/Flask-based headless ripping system. It has been in active development
 for years and represents a real-world body of lessons that we have learned from.
